@@ -1,6 +1,3 @@
-Natürlich! Hier ist die überarbeitete Version der Markdown-Datei mit integrierten Beispielen:
-
-```markdown
 # Fortgeschrittene Konzepte der Assemblerprogrammierung
 
 In diesem fortgeschrittenen Tutorial werden wir einige weiterführende Konzepte der Assemblerprogrammierung betrachten.
