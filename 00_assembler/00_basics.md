@@ -2,6 +2,10 @@
 
 Willkommen zu unserer Einführung in die Assemblerprogrammierung! In diesem Tutorial werden wir die Grundlagen der Assemblerprogrammierung auf einfache Weise erklären.
 
+## Online-Compiler
+
+Verfügbar [hier](https://onecompiler.com/assembly/424h8rhu5) 
+
 ## Was ist Assembler?
 
 Assembler ist eine Programmiersprache, die eng mit der Maschinensprache des Computers verbunden ist. Im Gegensatz zu Hochsprachen wie C oder Python, die von Menschen leicht verstanden werden können, ist Assembler viel näher an der Hardware des Computers. Jede Anweisung in einem Assemblerprogramm entspricht im Wesentlichen einer Anweisung, die direkt von der CPU des Computers ausgeführt wird.
